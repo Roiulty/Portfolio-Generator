@@ -1,0 +1,10 @@
+name: "John Doe"
+title: "Full Stack Developer"
+bio: "I am passionate about building cool projects."
+projects:
+  - name: "Portfolio Generator"
+    description: "A script that generates a portfolio website from YAML."
+    link: "https://github.com/johndoe/portfolio-generator"
+  - name: "Weather App"
+    description: "A simple weather app using OpenWeather API."
+    link: "https://github.com/johndoe/weather-app"
